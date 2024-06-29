@@ -41,6 +41,6 @@ Para visualizar este projeto localmente, siga os seguintes passos:
 
 ## Contato
 
-Se você tiver dúvidas, sugestões ou comentários, não hesite em entrar em contato através do e-mail talissonb422@gmail.com.
+Se você tiver dúvidas, sugestões ou comentários, não hesite em entrar em contato através do e-mail hbvbrasil@gmail.com.
 
 Obrigado por conferir meu projeto! 😊
