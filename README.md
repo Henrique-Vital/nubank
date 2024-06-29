@@ -22,7 +22,7 @@ Para visualizar este projeto localmente, siga os seguintes passos:
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/Talisson-b99/lp-nubank.git
+   git clone [https://github.com/Henrique-Vital/nubank]
    ```
 2. Abra o arquivo `index.html` em seu navegador web.
 
