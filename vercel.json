@@ -1,23 +1,10 @@
 {
   "version": 2,
-  "project": {
-    "name": "Clone Nubank",
-    "metadata": {
-      "description": "Clone da interface do site Nubank, desenvolvido com HTML, CSS e JavaScript. O projeto apresenta uma interface moderna e responsiva, com elementos interativos e animações que recriam a experiência visual do site original.",
-      "links": {
-        "github": "https://github.com/Henrique-Vital/nubank",
-        "live": "https://nubank-one.vercel.app/"
-      },
-      "technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "category": "web",
-      "status": "production",
-      "featured": false,
-      "startDate": "2024-09-01",
-      "lastUpdate": "2024-10-15"
+  "name": "Clone Nubank",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
     }
-  }
+  ]
 }
